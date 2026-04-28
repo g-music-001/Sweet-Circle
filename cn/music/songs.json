@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "甜甜圈",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 210,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/1.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/1.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/1.lrc"
+  },
+  {
+    "id": 2,
+    "title": "故人颜",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 195,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/2.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/2.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/2.lrc"
+  },
+  {
+    "id": 3,
+    "title": "惊鸿一念",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 210,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/3.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/3.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/3.lrc"
+  },
+  {
+    "id": 4,
+    "title": "逆光",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 260,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/4.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/4.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/4.lrc"
+  },
+  {
+    "id": 5,
+    "title": "人间星火",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 210,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/5.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/5.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/5.lrc"
+  },
+  {
+    "id": 6,
+    "title": "星光落在手心",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 180,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/6.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/6.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/6.lrc"
+  },
+  {
+    "id": 7,
+    "title": "星光落在掌心",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 165,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/7.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/7.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/7.lrc"
+  },
+  {
+    "id": 8,
+    "title": "星光落在指尖",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 145,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/8.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/8.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/8.lrc"
+  },
+  {
+    "id": 9,
+    "title": "星火坠落 (气势恢宏版)",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 180,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/9.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/9.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/9.lrc"
+  },
+  {
+    "id": 10,
+    "title": "星火坠落 (抒情版)",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 180,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/10.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/10.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/10.lrc"
+  },
+  {
+    "id": 11,
+    "title": "星火坠入眼眸",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 180,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/11.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/11.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/11.lrc"
+  },
+  {
+    "id": 12,
+    "title": "星落人间",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 185,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/12.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/12.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/12.lrc"
+  },
+  {
+    "id": 13,
+    "title": "月下听风吟",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 195,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/13.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/13.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/13.lrc"
+  },
+  {
+    "id": 14,
+    "title": "云间谣",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 220,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/14.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/14.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/14.lrc"
+  },
+  {
+    "id": 15,
+    "title": "云间月",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 182,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/15.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/15.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/15.lrc"
+  },
+  {
+    "id": 16,
+    "title": "追光的女孩",
+    "artist": "爱乐儿",
+    "album": "甜甜圈 (Sweet Circle)",
+    "duration": 180,
+    "src": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/songs/16.mp3",
+    "cover": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/covers/16.jpg",
+    "lyrics": "https://cdn-r2.ganecheng.tech:8440/Sweet-Circle/music/lyrics/16.lrc"
+  }
+]
